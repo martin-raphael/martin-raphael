@@ -1,3 +1,8 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://github.com/martin-raphael/martin-raphael/blob/main/assets/banner.gif" alt="Martin Raphael - Software Engineer" width="100%" />
+</p>
+
 # 👋 Hi, I’m Martin Raphael
 
 💻 **Software Engineer | Fullstack Developer | Mobile Developer**  
@@ -7,7 +12,7 @@ Passionate about building scalable, high-performance applications and delivering
 
 ## 🚀 About Me
 - 👀 **Interests:** Android Development, Web Development, IoT, Cloud Computing  
-- 🌱 **Currently Learning:** Advanced Software Engineering concepts & cutting-edge mobile development practices  
+- 🌱 **Currently Learning:** Advanced Software Engineering & Mobile Development Best Practices  
 - 💞 **Open to Collaborate On:** Mobile apps, fullstack projects, and innovative tech solutions  
 - 📫 **Reach Me On:** [Twitter/X - @techralph](https://twitter.com/techralph)  
 
@@ -31,10 +36,22 @@ Passionate about building scalable, high-performance applications and delivering
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martin-raphael&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-raphael&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=martin-raphael&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💡 Currently Working On
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=martin-raphael&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -46,10 +63,16 @@ Passionate about building scalable, high-performance applications and delivering
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/techralph)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martin-raphael)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=martin-raphael&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ---
 
