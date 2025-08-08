@@ -1,19 +1,14 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://github.com/martin-raphael/martin-raphael/blob/main/assets/banner.gif" alt="Martin Raphael - Software Engineer" width="100%" />
-</p>
-
 # 👋 Hi, I’m Martin Raphael
 
 💻 **Software Engineer | Fullstack Developer | Mobile Developer**  
-Passionate about building scalable, high-performance applications and delivering clean, maintainable code. Skilled in **Java**, **Kotlin**, **JavaScript**, **Node.js**, and **modern web & mobile technologies**.
+Passionate about building scalable, high-performance applications and delivering clean, maintainable code. Skilled in **Java**, **Kotlin**, **JavaScript**, **Flutterwave API**, **Node.js**, and **modern web & mobile technologies**.
 
 ---
 
 ## 🚀 About Me
-- 👀 **Interests:** Android Development, Web Development, IoT, Cloud Computing  
+- 👀 **Interests:** Android Development, Web Development, Fintech Integrations, IoT, Cloud Computing  
 - 🌱 **Currently Learning:** Advanced Software Engineering & Mobile Development Best Practices  
-- 💞 **Open to Collaborate On:** Mobile apps, fullstack projects, and innovative tech solutions  
+- 💞 **Open to Collaborate On:** Mobile apps, fintech solutions, fullstack projects, and innovative tech solutions  
 - 📫 **Reach Me On:** [Twitter/X - @techralph](https://twitter.com/techralph)  
 
 ---
@@ -33,25 +28,43 @@ Passionate about building scalable, high-performance applications and delivering
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutterwave](https://img.shields.io/badge/Flutterwave-F5A623?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martin-raphael&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-raphael&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=martin-raphael&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-raphael&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=martin-raphael&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=martin-raphael&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 💡 Currently Working On
+## 📈 Interesting Graphs
+
+### **Contribution Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=martin-raphael&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=martin-raphael&theme=tokyo-night" alt="Activity Graph"/>
+</p>
+
+### **Productivity by Time of Day**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=martin-raphael&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
+</p>
+
+### **Contribution Heatmap**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-raphael&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+### **Snake Contributions Animation**
+<p align="center">
+  <img src="https://github.com/martin-raphael/martin-raphael/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
