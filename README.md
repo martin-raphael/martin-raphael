@@ -62,10 +62,7 @@ Passionate about building scalable, high-performance applications and delivering
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-raphael&theme=tokyonight" alt="Profile Details"/>
 </p>
 
-###  Snake Contributions Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/martin-raphael/martin-raphael/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+
 
 ---
 
